@@ -1,0 +1,6 @@
+glass_bottle
+metal_can
+plastic_bag
+plastic_bottle
+plastic_container
+plastic_wrapper
