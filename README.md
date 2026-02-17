@@ -5,6 +5,9 @@ A computer vision project that detects and classifies multiple types of waste us
 This project extends single-class plastic bottle detection into a **multi-class waste detection system** with real-world applicability.
 
 ---
+## 🚀 Link To use project 
+https://huggingface.co/spaces/pridwimnjha/waste-detection-yolov11  
+---
 
 ## 🚀 Features
 
