@@ -55,7 +55,7 @@ Each dataset contains images annotated in **YOLO format**.
 
 ## 🛠️ Methodology
 
-* Annotated ~1,100 images using **LabelImg**
+* Annotated ~2,000 images using **LabelImg**
 * Converted annotations to YOLO format
 * Applied data augmentation techniques
 * Tuned hyperparameters for better generalization
@@ -68,9 +68,9 @@ Each dataset contains images annotated in **YOLO format**.
 
 * Precision
 * Recall
-
-*(mAP and per-class metrics will be added as the multi-class model training progresses.)*
-
+* mAP50
+* mAP50-95
+  
 ---
 
 ## 🔄 Ongoing Work
