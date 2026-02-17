@@ -5,16 +5,16 @@ A computer vision project that detects and classifies multiple types of waste us
 This project extends single-class plastic bottle detection into a **multi-class waste detection system** with real-world applicability.
 
 ---
-## 🚀 Link To use project 
+## 📌 Link To use project 
 https://huggingface.co/spaces/pridwimnjha/waste-detection-yolov11  
 ---
 
 ## 🚀 Features
 
-* Multi-class object detection using YOLO
-* Custom annotated dataset created using **LabelImg**
-* Robust detection across varying lighting conditions and occlusions
-* Easily extensible to add new waste categories
+* Created and annotated a dataset of ∼2,000 images using Labellmg and converted to YOLO format.
+* The classes included glass bottle, metal can, plastic bag, plastic bottle, plastic container, and plastic wrapper.
+* Applied data augmentation, tuned hyperparameters, used weight decay and early stopping to reduce overfitting.
+* The model achieved an MAP@50 of 90% and an MAP@50–95 of 73.5% demonstrating strong overall detection
 
 ---
 
